@@ -4,6 +4,9 @@ title: "Orodha"
 categories: jekyll update
 ---
 
+The Orodha project is a culmination of the skills and abilities that I have learned over the past two years.
+Orodha is a SaaS application that allows users to create and share shopping lists. I am developing the frontend using ReactJs and the backend using Python and Flask RESTx. I followed agile development principles as well as used GitHub and Git for version control and collaboration. Through this project, I demonstrated my ability to design, implement, and deploy a full-stack web application using modern tools and concepts.
+
 You can find the Orodha repositories on my Github page, [here][edison-stuart-github].
 
 [edison-stuart-github]: "https://github.com/Edison-Stuart"

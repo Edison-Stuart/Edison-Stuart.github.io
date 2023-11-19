@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Orodha"
+categories: jekyll update
+---
+
+You can find the Orodha repositories on my Github page, [here][edison-stuart-github].
+
+[edison-stuart-github]: "https://github.com/Edison-Stuart"

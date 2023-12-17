@@ -2,6 +2,7 @@
 layout: post
 title: "Cracking the Coding Interview"
 categories: jekyll update
+description: "This project was used as an exercise for both gaining knowledge in algorithms, as well as creating documentation and explaining my processes."
 ---
 
 This project consisted of reading through and practicing problems from the book Cracking The Coding [Interview][CCI-link]

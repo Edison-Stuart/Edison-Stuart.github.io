@@ -2,6 +2,7 @@
 layout: post
 title: "Orodha"
 categories: jekyll update
+description: "The Orodha project is an excercise in using microservice based architecture to build an application which can be deployed on cloud infrastructure using automated processes."
 ---
 
 The Orodha project is a culmination of the skills and abilities that I have learned over the past two years.

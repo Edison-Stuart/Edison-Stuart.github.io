@@ -14,7 +14,7 @@ layout: default
 			%Y" -%}
 			<span class="post-meta">{{ post.date | date: date_format }}</span>
 			<h3>{{ post.title | escape }}</h3>
-			<div>{{ post.content | escape }}</div>
+			<div>{{ post.content }}</div>
 			{%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
 		</li>
 		{%- endfor -%}
